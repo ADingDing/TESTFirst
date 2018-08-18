@@ -17,6 +17,7 @@
   <link rel="stylesheet" href="${pageContext.request.contextPath}/resource/js/jquery-easyui-1.4.1/themes/icon.css" type="text/css"/>
   
     <meta http-equiv="pragma" content="no-cache"/>
+    
 	<meta http-equiv="cache-control" content="no-cache"/>
 	<meta http-equiv="expires" content="0"/>
 	<meta name="keywords" content="keyword1,keyword2,keyword3"/>
@@ -44,6 +45,7 @@
 	<h1 class="special_red"> This is special  红色[ex3]</h1>
 	<h1 class="special_blue">This is special  蓝色[ex4]</h1>
 	<p id="test">如果你点我，我就会消失。</p>
+	<p>继续点我!</p>
 	<p>继续点我!</p>
 	<p>接着点我!</p>
 	<button>click_me</button>

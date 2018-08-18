@@ -1,0 +1,161 @@
+div.d1 {
+width: 950px;
+height: 402px;
+}	
+div.d2 {
+width: 950px;
+height: 100px;
+background-color: darkkhaki;
+}
+
+div.d3 {
+width: 800px;
+height: 402px;
+}
+
+p.p21 {
+font-size: 30px;
+color: darkred;
+padding-left: 80px;
+padding-top: 10px;
+}
+
+p.p22 {
+font-size: 18px;
+padding-left: 170px;
+margin-top: -50px;
+}
+
+div.d23 {
+width: 600px;
+height: 30px;
+padding-top: 1px;
+background-color: #fff;
+margin-left: 5px;
+color: #fff;
+}
+
+div.d231 {
+width: 75px;
+height: 23px;
+padding-top: 3px;
+padding-left: 10px;
+background-color: cornflowerblue;
+float: left;
+margin-right: 5px;
+}
+
+div.d232 {
+width: 75px;
+height: 23px;
+padding-top: 3px;
+padding-left: 10px;
+background-color: cornflowerblue;
+float: left;
+margin-right: 5px;
+}
+
+div.d233 {
+width: 75px;
+height: 23px;
+padding-top: 3px;
+padding-left: 10px;
+background-color: cornflowerblue;
+float: left;
+margin-right: 5px;
+}
+
+div.d234 {
+width: 105px;
+height: 23px;
+padding-top: 3px;
+padding-left: 10px;
+background-color: cornflowerblue;
+float: left;
+margin-right: 5px;
+}
+
+div.d235 {
+width: 90px;
+height: 23px;
+padding-top: 3px;
+padding-left: 10px;
+background-color: cornflowerblue;
+float: left;
+margin-right: 5px;
+}
+
+div.d236 {
+width: 90px;
+height: 23px;
+padding-top: 3px;
+padding-left: 10px;
+background-color: cornflowerblue;
+float: left;
+margin-right: 5px;
+}
+
+div.d231:hover {
+background-color: red;
+font-size: 120%;
+color: yellow;
+}
+
+div.d232:hover {
+background-color: red;
+font-size: 120%;
+color: yellow;
+}
+
+div.d233:hover {
+background-color: red;
+font-size: 120%;
+color: yellow;
+}
+
+div.d234:hover {
+background-color: red;
+font-size: 120%;
+color: yellow;
+}
+
+div.d235:hover {
+background-color: red;
+font-size: 120%;
+color: yellow;
+}
+
+div.d236:hover {
+background-color: red;
+font-size: 120%;
+color: yellow;
+}
+div.d31{
+font-size: 2px;
+margin-left: 50px;
+margin-right: 150px;
+float: left;
+}
+div.d32{
+float: right;
+width: 280px;
+height: 240px;
+margin-top: -280px;
+margin-right: -120px;
+}
+div.d321{
+float: right;
+width: 200px;
+height: 240px;
+background-color: #000;
+margin-top: 30px;
+margin-left: 680px;
+padding: 20px;
+border-top-left-radius: 20px;
+border-top-right-radius: 20px;
+}
+div.d21:hover{
+transform: rotate(360deg);
+display: block;
+transition: all 1s;
+}
